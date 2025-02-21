@@ -1,5 +1,4 @@
 # abi_portfolio
-[Heavy Machinery Sales Analysis – Caterpillar Dataset]
 https://github.com/afijithpv/abi_portfolio/blob/main/Caterpillar%20Inc%20Project.pdf
 
 
